@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- exporter: blender2ogre 0.8.2 -->
+<!-- export_time: Fri, 27 Aug 2021 18:15:21 +0000 -->
+<!-- previous_export_time: Fri, 27 Aug 2021 18:09:42 +0000 -->
+<scene author="vakro" formatVersion="1.1" >
+  <nodes >
+    <node name="MOUTH" >
+      <position x="-16.347206" y="21.714539" z="4.377856" />
+      <rotation qw="0.642788" qx="-0.766044" qy="0.000000" qz="-0.000000" />
+      <scale x="7.852844" y="7.852841" z="7.852841" />
+      <userData >
+        <property data='&lt;bpy id prop: owner="OBMOUTH", name="hops", address=0x000002DBA93FC2C8&gt;' name="hops" type="IDPropertyGroup" />
+        <property data='&lt;bpy id prop: owner="OBMOUTH", name="bc", address=0x000002DBA93FC228&gt;' name="bc" type="IDPropertyGroup" />
+        <property data='&lt;bpy id prop: owner="OBMOUTH", name="ant_landscape", address=0x000002DBA93FC188&gt;' name="ant_landscape" type="IDPropertyGroup" />
+      </userData>
+      <entity meshFile="tv.mesh" name="MOUTH" >
+        <userData >
+          <property data='&lt;bpy id prop: owner="MEtv", name="bc", address=0x000002DBA9393F68&gt;' name="bc" type="IDPropertyGroup" />
+        </userData>
+      </entity>
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="glass.001.material" />
+    </item>
+    <item type="material" >
+      <file name="watr.material" />
+    </item>
+    <item type="material" >
+      <file name="sxcreen.material" />
+    </item>
+    <item type="material" >
+      <file name="butt.material" />
+    </item>
+    <item type="material" >
+      <file name="case.material" />
+    </item>
+    <item type="material" >
+      <file name="tube.material" />
+    </item>
+    <item type="material" >
+      <file name="face.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourBackground b="0.050876" g="0.050876" r="0.050876" />
+  </environment>
+</scene>

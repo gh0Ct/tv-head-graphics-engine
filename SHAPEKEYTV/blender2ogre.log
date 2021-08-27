@@ -1,0 +1,21 @@
+2021-08-27 21:15:21 [ INFO] Target_path: D:\danny\MESHEX\SHAPEKEYTV
+2021-08-27 21:15:21 [ INFO] Target_file_name: blender2ogre.log
+2021-08-27 21:15:21 [DEBUG] Target_file_name_no_ext: blender2ogre
+2021-08-27 21:15:21 [ INFO] * Processing Scene: blender2ogre, path: D:\danny\MESHEX\SHAPEKEYTV
+2021-08-27 21:15:21 [DEBUG] ABABA MOUTH
+2021-08-27 21:15:21 [ INFO] * Processing Materials
+2021-08-27 21:15:21 [ INFO] * Exporting root node: MOUTH 
+2021-08-27 21:15:21 [ INFO]   - Vertices: 27081
+2021-08-27 21:15:21 [ INFO]   - Loop triangles: 53914
+2021-08-27 21:15:21 [ INFO] * Generating: tv.mesh.xml
+2021-08-27 21:15:21 [ INFO] * Writing shared geometry
+2021-08-27 21:15:21 [DEBUG] * Mesh has NO custom normals
+2021-08-27 21:15:53 [ INFO] - Done at 31.86 seconds
+2021-08-27 21:15:53 [ INFO] * Writing submeshes
+2021-08-27 21:15:54 [ INFO] - Done at 32.94 seconds
+2021-08-27 21:15:54 [ INFO] * Writing shape keys
+2021-08-27 21:16:02 [ INFO] - Done at 40.83 seconds
+2021-08-27 21:16:02 [ INFO] - Created tv.mesh.xml at 40.88 seconds
+2021-08-27 21:16:06 [ INFO] Removing generated xml file after conversion: D:\danny\MESHEX\SHAPEKEYTV\tv.mesh.xml
+2021-08-27 21:16:06 [ INFO] - Created tv.mesh in total time 45.13 seconds
+2021-08-27 21:16:06 [ INFO] - Exported Ogre Scene: D:\danny\MESHEX\SHAPEKEYTV\blender2ogre.scene 
